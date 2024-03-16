@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Khairul Islam
 #### Deep Dive into Unity Game Engine
-![Deep Dive into Unity Game Engine](https://pbs.twimg.com/profile_banners/1561063251944693761/1686569057/600x200)
+![Deep Dive into Unity Game Engine]
 
 Hello! I'm a game developer . I possess a diverse range of programming skills, including C, C++, Java, Python, HTML, and MySQL. While I'm still in the early stages of learning CSS, C#, PHP, and Unity game engine, I'm determined to expand my knowledge and skills in these areas.
 
