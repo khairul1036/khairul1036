@@ -16,5 +16,4 @@ Skills: C / JAVA / PYTHON / C# / C++ / HTML / CSS / UI-UX Design
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khairul1036&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/khairul1036)  
 
