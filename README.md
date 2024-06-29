@@ -1,12 +1,8 @@
 ### Hi there 👋, I'm Khairul Islam
-#### Deep Dive into Unity Game Engine
 
-Hello! I'm a game developer . I possess a diverse range of programming skills, including C, C++, Java, Python, HTML, and MySQL. While I'm still in the early stages of learning CSS, C#, PHP, and Unity game engine, I'm determined to expand my knowledge and skills in these areas.
+- 🌱 I’m currently learning Web Development
 
 Skills: C / JAVA / PYTHON / C# / C++ / HTML / CSS / UI-UX Design
-
-- 🌱 I’m currently learning Unity Game Engine 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khairul1036)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khairul-islam-607846220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/khairul4102)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Khairul01014222)  
 
