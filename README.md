@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Frontend Developer</h2>
+<h2 align="left">Web Developer</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">As a Frontend Developer with lots of experience, I specialize in building dynamic, user-friendly web applications. My expertise includes HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, MongoDB and core PHP, MySQL. I have hands-on experience with APIs and WordPress design, along with proficiency in UI/UX tools like Figma and Adobe XD. Skilled in time management, G-Suite, and team collaboration.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning TypeScript<br>🎯 Goals: Become a senior developer by 2025<br>🎲 Fun fact: I like to sleep.</p>
+<p align="left">As a Web Developer with lots of experience, I specialize in building dynamic, user-friendly web applications. My expertise includes HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, MongoDB and core PHP, MySQL. I have hands-on experience with APIs and WordPress design, along with proficiency in UI/UX tools like Figma and Adobe XD. Skilled in time management, G-Suite, and team collaboration.<br><br>✨ Creating bugs since 2022<br>📚 I'm currently learning TypeScript<br>🎯 Goals: Become a senior developer by 2025<br>🎲 Fun fact: I like to sleep.</p>
 
 ###
 
